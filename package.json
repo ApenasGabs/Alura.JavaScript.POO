@@ -1,0 +1,19 @@
+{
+  "name": "alura.javascript.poo",
+  "version": "1.0.0",
+  "description": "Projeto criado durante as aulas de Orientacao a objeto em JS da Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Apenasgabs/Alura.JavaScript.POO.git"
+  },
+  "author": "Gabriel Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Apenasgabs/Alura.JavaScript.POO/issues"
+  },
+  "homepage": "https://github.com/Apenasgabs/Alura.JavaScript.POO#readme"
+}
