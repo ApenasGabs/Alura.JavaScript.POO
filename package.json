@@ -1,8 +1,8 @@
 {
-    "name": "alura.javascript.poo",
+    "name": "alura.typescript.poo",
     "version": "1.0.0",
-    "description": "Projeto criado durante as aulas de Orientacao a objeto em JS da Alura",
-    "main": "index.js",
+    "description": "Projeto criado durante as aulas de Orientacao a objeto em JS da Alura e traduzido o para typescript",
+    "main": "index.ts",
     "scripts": {
         "start": "node index.js",
         "test": "echo \"Error: no test specified\" && exit 1"
