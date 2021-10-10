@@ -5,5 +5,5 @@ clienteSophia.nome = "Sophia";
 clienteSophia.cpf = 11122233309;
 
 const contaSophia = new ContaCorrente();
-contaSophia.saldo = 0;
+contaSophia._saldo = 0;
 contaSophia.agencia = 1001;
